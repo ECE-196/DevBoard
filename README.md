@@ -1,10 +1,7 @@
 # DevBoard
 
-Get started by visiting the [wiki](https://github.com/ECE-196/DevBoard/wiki).
+Get started by visiting the [assignment page](https://ece-196.github.io/docs/assignments/dev-board/).
 
-**Remember to update the changelog**
+## Submission
 
-# Submission
-
-1. Image of assembled board _powered on_ named `submission.*` placed in root of this repository.
-1. Updated changelog
+1. Image of assembled board *powered on* named `submission.*` placed in root of this repository.
